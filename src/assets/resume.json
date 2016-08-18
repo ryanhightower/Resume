@@ -1,0 +1,178 @@
+{
+  "basics": {
+    "name": "Ryan Hightower",
+    "label": "Software Engineer / FrontEnd Developer",
+    "picture": "http://www.gravatar.com/avatar/1c6dd06fd6ddb48b60c780190132868f",
+    "email": "ryan@ryanhightower.com",
+    "phone": "801-753-8367",
+    "website": "http://ryanhightower.com",
+    "summary": "Husband, father of four and a half, developer, gadget enthusiast, survivalist, yogi, maker.",
+    "location": {
+      "address": "4095 E Oakland Hills Dr",
+      "postalCode": "84005",
+      "city": "Eagle Mountain",
+      "state": "UT",
+      "countryCode": "US",
+      "region": "Utah"
+    },
+    "profiles": [{
+      "network": "GitHub",
+      "username": "ryanhightower",
+      "url": "https://github.com/ryanhightower"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "ryanhightower",
+      "url": "https://www.linkedin.com/in/ryanhightower"
+    },
+    {
+      "network": "Twitter",
+      "username": "ryanhightower",
+      "url": "http://twitter.com/ryanhightower"
+    }]
+  },
+  "work": [{
+    "company": "Starfall.com",
+    "position": "Software Engineer",
+    "website": "http://starfall.com",
+    "startDate": "2013-10-15",
+    "endDate": "present",
+    "summary": "Successfully worked in both frontend and backend environments to build full-stack applications to support Starfall's grown-up customers and business operations.",
+    "highlights": [
+      "Built from top to bottom a fully functional e-commerce application to support the sales of their physical products.",
+      "Integrated the e-commerce application with the Starfall legacy membership system to support selling digital memberships.",
+      "Worked with stakeholders to plan, design, and optimize the e-commerce user experience.",
+      "Designed and built backend administration tools to manage e-commerce data and orders.",
+      "Designed RESTful APIs to consume e-commerce data in other parts of the Starfall ecosystem.",
+      "Built user interfaces in AngularJs and VueJs frameworks."
+    ]
+  },
+  {
+    "company": "DevPoint Labs",
+    "position": "Front End JavaScript Course Instructor",
+    "website": "http://devpointlabs.com/js",
+    "startDate": "2014-12-01",
+    "endDate": "2015-05-07",
+    "summary": "Taught DevPoint Labs' first ever training course on JavaScript FrontEnd Development.",
+    "highlights": [
+      "Developed the curriculum schedule for the course.",
+      "Took 11 students from 0 JavaScript knowledge to using canvas and building rudimentary Angular applications.",
+      "Taught supporting HTML and CSS skills including css animation and transitions."
+    ]
+  },
+  {
+    "company": "Oozle Media",
+    "position": "Web Department Manager",
+    "website": "http://oozlemedia.com/",
+    "startDate": "2011-08-01",
+    "endDate": "2013-02-07",
+    "summary": "Guided the digital agency web department in the design and development of client websites.",
+    "highlights": [
+      "Managed a team of designers and developers handling between 5 to 10 projects at a time.",
+      "Contributed to the project during planning, design, and development with feedback and ideas for improvement and the team's use of best practices.",
+      "Identified project objectives and guided development to meet those objectives.",
+      "Managed client expectations while still listening to client feedback to ensure client satisfaction.",
+      "Conducted project meetings to facilitate collaboration between clients and the team.",
+      "Managed the hiring and firing of team members."
+    ]
+  }
+  ],
+
+  "volunteer": [{
+    "organization": "Utah Venture Entreprenuer Forum",
+    "position": "Apprentice Board Member",
+    "website": "http://uvef.org/",
+    "startDate": "2009-06-01",
+    "endDate": "2011-01-01",
+    "summary": "Assisted the Board with planning and executing monthly entrepreneurial events.",
+    "highlights": [
+      "Setup and executed email marketing campaigns through Mail Chimp to increase RSVP and event attendance.",
+      "Produced a special tribute for Stephen Covey for his induction to the UVEF Hall of Fame. https://vimeo.com/7656246"
+    ]
+  }],
+  "education": [{
+    "institution": "Full Sail University",
+    "area": "Entertainment Business",
+    "studyType": "Master",
+    "startDate": "2009-06-01",
+    "endDate": "2010-12-01",
+    "gpa": "3.0",
+    "courses": [
+      "Business Finance",
+      "Branding",
+      "Advertising",
+      "Project Management",
+      "Executive Leadership"
+    ]
+  },{
+    "institution": "Brigham Young University",
+    "area": "Spanish Language",
+    "studyType": "Bachelor",
+    "startDate": "2004-06-01",
+    "endDate": "2008-08-14",
+    "gpa": "3.3",
+    "courses": []
+  }],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "8 out of 10",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "Reactive programming",
+        "AngularJs",
+        "Vue.js",
+        "Ajax",
+        "Progressive Web Applications"
+      ]
+    },
+    {
+      "name": "PHP",
+      "keywords": [
+        "Laravel",
+        "Symfony"
+      ]
+    },
+    {
+      "name": "RESTful APIs",
+      "keywords": [
+      ]
+    }
+  ],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  },{
+  	"language": "Spanish",
+  	"fluency": "Proficient"
+  	}
+  ],
+  "interests": [{
+    "name": "Watersports",
+    "keywords": [
+      "Wakeboarding",
+      "Stand-up Paddleboard"
+    ]
+  },{
+  	"name": "Music",
+  	"keywords": [
+  		"Guitar", "Piano", "Singing"
+  	]
+  },{
+    "name": "Musical Theater",
+    "keywords":[
+      "Music Man",
+      "Fiddler on the Roof",
+      "Brigadoon"
+    ]
+  }
+  ]
+}
