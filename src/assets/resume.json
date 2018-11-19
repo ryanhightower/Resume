@@ -6,14 +6,12 @@
     "email": "ryan@ryanhightower.com",
     "phone": "801-753-8367",
     "website": "http://ryanhightower.com",
-    "summary": "Husband, father of four and a half, developer, gadget enthusiast, survivalist, yogi, maker.",
+    "summary": "Husband, Father of Four, Javascript Engineer, UX/Product Developer, Yogi, and Maker.",
     "location": {
-      "address": "4095 E Oakland Hills Dr",
-      "postalCode": "84005",
-      "city": "Eagle Mountain",
+      "address": "40 S Samara St",
+      "city": "Vineyard",
       "state": "UT",
-      "countryCode": "US",
-      "region": "Utah"
+      "postalCode": "84059"
     },
     "profiles": [{
       "network": "GitHub",
@@ -32,11 +30,43 @@
     }]
   },
   "work": [{
-    "company": "Starfall.com",
+    "company": "YOURS.CO",
+    "position": "Lead Software Engineer",
+    "website": "https://yours.co",
+    "startDate": "2017-04-17",
+    "endDate": "present",
+    "summary": "",
+    "highlights": [
+      "Worked closely with product, design and marketing officers to guide the development process and ensure priorities were met.",
+      "Architected and led the team in building Node.js and Firebase serverless API backends to support our products.",
+      "Successfully launched 8 front-end applications: iOS and Android apps; a web-based client-side application; AppleTV, Roku, and FireTV HTML5 Apps for TV; an internal application for product fulfillment; and an automated pipeline for creating custom DVDs.",
+      "Cultivated a culture of high-quality code through peer reviews and 85% automated test coverage.",
+      "Fostered team growth and unity through 1-on-1 sessions with team members.",
+      "As part of the executive team, contributed to the overall vision and strategy of the company.",
+      "Proposed and Led the executive team in a Google Design Sprint that led to the success of our last company pivot.",
+      "Championed the use of user interviews and user testing to find product-market fit and prioritize value to customers."
+    ]
+  },
+  {
+    "company": "Imagine Learning",
+    "position": "Senior Software Engineer",
+    "website": "http://imaginelearning.com",
+    "startDate": "2016-10-01",
+    "endDate": "2017-04-17",
+    "summary": "",
+    "highlights": [
+      "Worked closely with UX designers to imagine animations, engaging interactions and intuitive visualizations of data.",
+      "Built sophisticated dashboard interfaces for school administrators to measure student success and identify areas for improvement.",
+      "Worked with forntend technologies Angular 1.6 and D3.",
+      "Led and reported for a team of cross-functional team of engineers, designers and product analysts as Scrum master."
+    ]
+  },
+  {
+    "company": "Starfall",
     "position": "Software Engineer",
     "website": "http://starfall.com",
     "startDate": "2013-10-15",
-    "endDate": "present",
+    "endDate": "2016-10-01",
     "summary": "Successfully worked in both frontend and backend environments to build full-stack applications to support Starfall's grown-up customers and business operations.",
     "highlights": [
       "Built from top to bottom a fully functional e-commerce application to support the sales of their physical products.",
@@ -116,12 +146,10 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "8 out of 10",
       "keywords": [
         "HTML",
         "CSS",
-        "JavaScript",
-        "PHP"
+        "JavaScript"
       ]
     },
     {
@@ -130,20 +158,14 @@
         "Reactive programming",
         "AngularJs",
         "Vue.js",
-        "Ajax",
         "Progressive Web Applications"
-      ]
-    },
-    {
-      "name": "PHP",
-      "keywords": [
-        "Laravel",
-        "Symfony"
       ]
     },
     {
       "name": "RESTful APIs",
       "keywords": [
+        "Node.js / Express.js",
+        "Lambda/Google Cloud Serverless functions"
       ]
     }
   ],

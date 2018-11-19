@@ -28,14 +28,19 @@
             {{data.location.address}}
           </div>
 
-          <div v-if="data.location.postalCode" class="postalCode">
-            <strong>Postal code</strong>
-            {{data.location.postalCode}}
-          </div>
-
           <div v-if="data.location.city" class="city">
             <strong>City</strong>
             {{data.location.city}}
+          </div>
+
+          <div v-if="data.location.state" class="state">
+            <strong>State</strong>
+            {{data.location.state}}
+          </div>
+
+          <div v-if="data.location.postalCode" class="postalCode">
+            <strong>Postal code</strong>
+            {{data.location.postalCode}}
           </div>
 
           <div v-if="data.location.countryCode" class="countryCode">
