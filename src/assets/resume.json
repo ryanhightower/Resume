@@ -31,10 +31,23 @@
   },
   "work": [{
     "company": "YOURS.CO",
+    "position": "VP of Product",
+    "website": "https://yours.co",
+    "startDate": "2018-07-01",
+    "endDate": "present",
+    "summary": "",
+    "highlights": [
+      "Radically changed our product direction after leading the senior management team in our first successful Design Sprint.",
+      "Led customer research and development to identify customer pain points and opportunities.",
+      "35% of active customers would be \"Very Disappointed\" if our product was no longer available. 60% \"Somewhat Disappointed\""
+    ]
+  },
+  {
+    "company": "YOURS.CO",
     "position": "Lead Software Engineer",
     "website": "https://yours.co",
     "startDate": "2017-04-17",
-    "endDate": "present",
+    "endDate": "2018-07-01",
     "summary": "",
     "highlights": [
       "Worked closely with product, design and marketing officers to guide the development process and ensure priorities were met.",
